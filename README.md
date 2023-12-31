@@ -51,10 +51,3 @@ Tracks a specified color in a video stream or video file and draws bounding boxe
 - Install dependencies using pip: `pip install numpy opencv-python`.
 - Download the scripts and run them with Python.
 
-## Contribution
-
-Contributions, issues, and feature requests are welcome!
-
-## License
-
-Specify your project license here, typically MIT or other open-source licenses.
